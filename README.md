@@ -1,2 +1,2 @@
-# VFAABCA
-Archivos para ejecutar un analisis de VFAABCA
+# ANÁLISIS DE VIBRACIONES MECÁNICAS
+Archivos para ejecutar análisis de diferentes tipos de vibraciones mecánicas
